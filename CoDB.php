@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost:3306';
-$dbname = 'plsk_vct01_umarevolution';
-$username = 'plsk_vct01_Jus';
-$password = 'Justine1234!';
+$host = 'Hehe No';
+$dbname = 'Hehe No';
+$username = 'Hehe No';
+$password = 'Hehe No';
 
 try {
     $objet_PDO = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
